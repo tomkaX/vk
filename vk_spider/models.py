@@ -19,7 +19,7 @@ class Comment(models.Model):
     likes = models.IntegerField()
 
 # class Attachment (models.Model):
-
+#
 
 
 # Create your models here.

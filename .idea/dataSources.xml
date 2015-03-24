@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3062549828">
+    <data-source source="LOCAL" name="vk" uuid="4357d25f-b5e4-40d4-93ba-521ac453bd75">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/vk.db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
